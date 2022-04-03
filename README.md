@@ -10,3 +10,6 @@ poeltl.csv
 
 players.csv
 * Player position and jersey number data from the 20201-2022 NBA season
+
+allstars.csv
+* All-stars from NBA history

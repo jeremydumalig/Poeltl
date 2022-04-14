@@ -14,4 +14,4 @@ players.csv
 allstars.csv
 * All-stars from NBA history
 
-Packages/Libraries Used : numpy, pandas, ipywidgets
+*Packages/Libraries Used : numpy, pandas, ipywidgets*

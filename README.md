@@ -2,6 +2,8 @@
 
 *This game recreates the NBA-themed Wordle game where users are given six chances to guess a five-letter word. The full project can be found [here](https://jeremydumalig.com/poeltl/).*
 
+Packages/Libraries Used : numpy, pandas, ipywidgets
+
 POELTL.ipynb
 * Jupyter Notebook that cleans up data, writes functions to design game
 

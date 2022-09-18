@@ -6,7 +6,7 @@
 
 <br>
 
-POELTL.ipynb
+**POELTL.ipynb**
 * Jupyter Notebook that cleans up data, writes functions to design game
 
 poeltl.csv
